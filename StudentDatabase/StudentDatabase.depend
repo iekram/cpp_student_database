@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491769087 source:c:\users\bug\dropbox\documents\cpp project\studentdatabase\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
